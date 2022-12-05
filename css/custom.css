@@ -1,0 +1,52 @@
+@media (max-width:1400px) {
+    .container {
+        max-width:1140px;
+    }
+}
+body {
+    font-family:'Montserrat';
+}
+/*Navigation menu*/
+.navbar-brand {
+    font-family:'Montserrat';
+    font-weight: 500;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-family:'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+.home {
+    background-color: #F0F5F9; 
+    padding: 150px 0 100px 0;
+    font-family: 'Montserrat';
+}
+/*About*/
+.about-card-one {
+    background-color: #fff2e5;
+}
+.about-card-two {
+    background-color: #F8F9FA;
+}
+.about-card-three {
+    background-color: #F0F5F9;
+}
+.card-img-top {
+    width: 80px;
+}
+/*Results*/
+.results {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.results-image {
+    width: 80px;
+}
+
+/*FAQ*/
+.faq-container {
+    background-color: #F0F5F9;
+    padding: 100px 50px;
+}
